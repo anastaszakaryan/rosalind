@@ -1,0 +1,7 @@
+C:\code\projects\rosalind\bioinformatics-stronghold\obj\Debug\bioinformatics-stronghold.csproj.AssemblyReference.cache
+C:\code\projects\rosalind\bioinformatics-stronghold\obj\Debug\bioinformatics-stronghold.csproj.SuggestedBindingRedirects.cache
+C:\code\projects\rosalind\bioinformatics-stronghold\obj\Debug\bioinformatics-stronghold.csproj.CoreCompileInputs.cache
+C:\code\projects\rosalind\bioinformatics-stronghold\bin\Debug\bioinformatics_stronghold.exe
+C:\code\projects\rosalind\bioinformatics-stronghold\bin\Debug\bioinformatics_stronghold.pdb
+C:\code\projects\rosalind\bioinformatics-stronghold\obj\Debug\bioinformatics_stronghold.exe
+C:\code\projects\rosalind\bioinformatics-stronghold\obj\Debug\bioinformatics_stronghold.pdb
